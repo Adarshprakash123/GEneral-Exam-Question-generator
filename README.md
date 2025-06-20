@@ -1,6 +1,5 @@
 # 🧠 UPSC & PCS Quiz Generator  
-<img src="https://github.com/Shivan118/Generative-AI-End-to-End-Project---UPSC-PCS-Education-Hub/blob/main/img.png" alt="Quiz App Banner" width="100%" />
-
+ 
 An AI-powered quiz generation system tailored for UPSC and PCS exam aspirants. This Streamlit-based web application uses the **Groq LLM API** to automatically generate personalized, topic-specific practice questions, analyze performance, and provide intelligent feedback—enhancing preparation in a fast, interactive, and scalable way.
 
 ---
